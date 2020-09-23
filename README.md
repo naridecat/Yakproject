@@ -52,3 +52,6 @@
 수 있도록 했습니다.<br>
 저희 연구를 통하여 사람들이 손쉽고 정확하게 약에
 대한 정보를 알았으면 합니다.
+
+
+**&copy; 2020 Yak Project. All rights reserved.**
